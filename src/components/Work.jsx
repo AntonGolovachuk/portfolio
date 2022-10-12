@@ -142,9 +142,9 @@ const Work = () => {
                   href="../pages/build-react-weather-app/index.html"
                   target="_blank"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-bold text-lg">
+                  {/* <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-bold text-lg">
                     Demo
-                  </button>
+                  </button> */}
                 </a>
                 <a
                   target="_blank"
