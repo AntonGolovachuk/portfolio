@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5817c56b.css",
-    "main.js": "/portfolio/static/js/main.41806948.js",
+    "main.css": "/portfolio/static/css/main.c00f144e.css",
+    "main.js": "/portfolio/static/js/main.ed4777e9.js",
     "static/media/react-weather-app.png": "/portfolio/static/media/react-weather-app.b9edbaf8989833112201.png",
     "static/media/travel-react-tailwind.png": "/portfolio/static/media/travel-react-tailwind.2d4e77506f110fe887a5.png",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.694b1c0cab3843fb5d96.jpg",
@@ -11,11 +11,11 @@
     "static/media/reactIcon.png": "/portfolio/static/media/reactIcon.89cefd999ca9b0768fed.png",
     "static/media/node.png": "/portfolio/static/media/node.bee9856646d0ff6d00a3.png",
     "index.html": "/portfolio/index.html",
-    "main.5817c56b.css.map": "/portfolio/static/css/main.5817c56b.css.map",
-    "main.41806948.js.map": "/portfolio/static/js/main.41806948.js.map"
+    "main.c00f144e.css.map": "/portfolio/static/css/main.c00f144e.css.map",
+    "main.ed4777e9.js.map": "/portfolio/static/js/main.ed4777e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5817c56b.css",
-    "static/js/main.41806948.js"
+    "static/css/main.c00f144e.css",
+    "static/js/main.ed4777e9.js"
   ]
 }
